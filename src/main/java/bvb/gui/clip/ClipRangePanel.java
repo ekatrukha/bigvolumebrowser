@@ -220,10 +220,7 @@ public class ClipRangePanel extends JPanel
 
 		}
 		updateGUI();
-	}
-	
-
-
+	}	
 	
 	/** sets bounds along the axis including all selected sources **/
 	public void resetBounds(int nAxis)
